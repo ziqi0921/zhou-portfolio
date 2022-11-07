@@ -10,3 +10,4 @@ Hi everyone! My name is Ziqi Zhou, and I am a Master of Entertainment Industry M
 I am super excited for this class because I had a chance to explore Tableau in undergraduate studies, however, I am not an expert in data visualizations. In this class, I hope to learn designing techniques, experience data visualization tolls, and practice the skills that could be useful for me in the future. 
 
 # Portfolio
+[Visualizing Government Debt](/VisualizingGovDebt.md)
