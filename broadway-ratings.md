@@ -20,9 +20,14 @@ At the first glance, I didn't quite get what this visualization is telling. Afte
 
 With the modifications in my mind, I created my first sketch. 
 
-In this sketch, I changed visualization to a line graph with the idea that lines might display the change of ratings over the change of time better. However, I realized that because there is not an interaction between I also changed the color of the data visualization to a more distinct palette. This way, the viewers can track 
+![Sketch 1](Sketch1.png)
+
+In this sketch, I changed visualization to a line graph with the idea that lines might display the change of ratings over the change of time better. However, I realized that because there is not an interaction between I also changed the color of the data visualization to a more distinct palette. This way, the viewers can track the changes of the 
 
 After thinking through the drawbacks, I created another sketch using 12 pie charts because I think that pie chart is the best way to compare categorical data. 
+
+![Sketch 1](Sketch2.png)
+
 
 # User Feedback
 
@@ -33,17 +38,16 @@ I have interviewed two people about my sketches:
 
 The responses are:
 
+The first person liked my second sketch better because they like how 
 
-From 
-
-During data critique in class on Tuesday, 11/15, I got more feedbacks on my sketches. From there, I was able to create my final design. 
+From The responses During data critique in class on Tuesday, 11/15, I got more feedbacks on my sketches. Overall, they think that my design is valid. However, they don't like the contrast between red and green as it is not  effect and think that I might need to rethink about the colors that I am using in my final design. Using this information, I was able to create my final design. 
 
 
 # Final Design
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11849592"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-I used a pie chart with time slider in Flourish for my final design of this data visualization. During the process, I realized that I need to modify my data so that each pie total up to 100 percent. 
+I used a pie chart with time slider in Flourish for my final design of this data visualization. During the process, I realized that I need to modify my data so that each pie total up to 100 percent. Moreover, I changed my color palette to less of a rainbow effect based on the feedbacks I got from my peers. 
 
 [Back to Portfolio](https://ziqi0921.github.io/zhou-portfolio/)
 
