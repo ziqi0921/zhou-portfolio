@@ -32,7 +32,7 @@ After thinking through the drawbacks, I created another sketch using 12 pie char
 
 ![Sketch 2](Sketch2.png)
 
-However, 12 similar pie charts might confuse the audience as there is not much change between the different months and it probably don't make a lot of sense at the first glance. Later, I realized that I can create one with a slider on top so that there are not too many pie charts presented looking identical. 
+However, 12 similar pie charts might confuse the audience as there is not much change between the different months and it probably don't make a lot of sense at the first glance. Later, I realized that I can create one with a slider on top so that there are not too many pie charts presented looking identical. From there, I got my third sketch. 
 
 ## Third Sketch
 
