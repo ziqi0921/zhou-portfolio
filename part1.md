@@ -1,18 +1,21 @@
 
-# Outline
+# Part I: Final Project
+
+
+## Outline
 
 
 
 
-# Data
+## Data
 
 
 
-# Sketches
+## Sketches
 
 
 
-# Medium
+## Medium
 
 
 
