@@ -24,13 +24,20 @@ This will target more towards younger generations, TikTok users and music lovers
 
 ## Data
 
-There are three data sets I am planning to use:
+These are the datasets I am planning to use:
 
+- TikTok Popular Songs 2019 from [Kaggle](https://www.kaggle.com/datasets/sveta151/tiktok-popular-songs-2019)
+- TikTok Popular Songs 2021 from [Kaggle](https://www.kaggle.com/datasets/sveta151/tiktok-popular-songs-2021)
 - TikTok Popular Songs 2022 from [Kaggle](https://www.kaggle.com/datasets/sveta151/tiktok-popular-songs-2022?resource=download)
-- Billboard Hot 100  from [Data World](https://data.world/kcmillersean/billboard-hot-100-1958-2017)
+- Billboard Hot 100 from [Data World](https://data.world/kcmillersean/billboard-hot-100-1958-2017)
+- Billboard "The Hot 100" Songs from [Kaggle](https://www.kaggle.com/datasets/dhruvildave/billboard-the-hot-100-songs)
 - Top Spotify Songs 2010-2019 from [Kaggle](https://www.kaggle.com/datasets/leonardopena/top-spotify-songs-from-20102019-by-year)
 
-The TikTok 2022 dataset contains
+The TikTok 2019 and 2022 dataset contains basic information of the popular TikTok songs in the two years such as track name and artist name. I can use these two datasets to compare and contrast the music tastes of the audiences on TikTok and see if there is a trend because they are collected using the exact same factors. The Billboard Hot 100 data from Data.World contains every weekly Hot 100 singles chart from Billboard from 1958 to 2017 and their music genres. The Kaggle dataset of Billbpard has more recent data, which can fill the gap from 2017 to 2021. The Spotify dataset contains all the top streamed songs from 2010 to 2019. 
+
+First of all, I will merge the datasets from the same music platform together. I choose these datasets because all of them share common characteristic factors: "dancability", "energy", "liveliness", "loudness" and "duration". Therefore, I can compare and contrast each characteristic of the songs and see if the trend changes over time. For example, since TikTok is all about short videos, a shorter duration of a song can be a characteristic that is influenced by TikTok. Also, if more popular songs on TikTok are high in dancability, a higher dancability trend in the Billboard Hot 100 can also showcase some influence of TikTok. 
+
+I will also compare the popular songs on TikTok with the top songs streamed on Spotify and Billboard Hot 100 to see whether the platforms share similar songs. In 
 
 
 ## Method and Medium
