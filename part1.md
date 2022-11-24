@@ -18,22 +18,23 @@ This will target more towards younger generations, TikTok users and music lovers
 
 ## Sketches
 
+![Sketch](Screen Shot 2022-11-23 at 11.52.19 PM.png)
 
-
-
+![Sketch2](Screen Shot 2022-11-23 at 11.52.28 PM.png)
 
 ## Data
 
 These are the datasets I am planning to use:
 
 - TikTok Popular Songs 2019 from [Kaggle](https://www.kaggle.com/datasets/sveta151/tiktok-popular-songs-2019)
+- TikTok Popular Songs 2020 from [Kaggle](https://www.kaggle.com/datasets/sveta151/tiktok-popular-songs-2020)
 - TikTok Popular Songs 2021 from [Kaggle](https://www.kaggle.com/datasets/sveta151/tiktok-popular-songs-2021)
-- TikTok Popular Songs 2022 from [Kaggle](https://www.kaggle.com/datasets/sveta151/tiktok-popular-songs-2022?resource=download)
 - Billboard Hot 100 from [Data World](https://data.world/kcmillersean/billboard-hot-100-1958-2017)
 - Billboard "The Hot 100" Songs from [Kaggle](https://www.kaggle.com/datasets/dhruvildave/billboard-the-hot-100-songs)
 - Top Spotify Songs 2010-2019 from [Kaggle](https://www.kaggle.com/datasets/leonardopena/top-spotify-songs-from-20102019-by-year)
+- Top Spotify Songs 2020-2021 from [Kaggle](https://www.kaggle.com/datasets/sashankpillai/spotify-top-200-charts-20202021)
 
-The TikTok 2019 and 2022 dataset contains basic information of the popular TikTok songs in the two years such as track name and artist name. I can use these two datasets to compare and contrast the music tastes of the audiences on TikTok and see if there is a trend because they are collected using the exact same factors. The Billboard Hot 100 data from Data.World contains every weekly Hot 100 singles chart from Billboard from 1958 to 2017 and their music genres. The Kaggle dataset of Billbpard has more recent data, which can fill the gap from 2017 to 2021. The Spotify dataset contains all the top streamed songs from 2010 to 2019. 
+The TikTok 2019, 2020, and 2021 dataset contains basic information of the popular TikTok songs in the two years such as track name and artist name. I can use these two datasets to compare and contrast the music tastes of the audiences on TikTok and see if there is a trend because they are collected using the exact same factors. The Billboard Hot 100 data from Data.World contains every weekly Hot 100 singles chart from Billboard from 1958 to 2017 and their music genres. The Kaggle dataset of Billbpard has more recent data, which can fill the gap from 2017 to 2021. The Spotify datasets contains all the top streamed songs from 2010 to 2021. 
 
 First of all, I will merge the datasets from the same music platform together. I will compare the popular songs on TikTok with the top songs streamed on Spotify and Billboard Hot 100 to see whether the platforms share similar songs. An increase in the percentage of TikTok songs charting on Billboard or Spotify indicates that the platform becomes more popular and is more important in music consumption. It can back up the point that music labels are paying more attention to the success of a song on TikTok. 
 
