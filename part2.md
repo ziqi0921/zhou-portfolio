@@ -8,20 +8,41 @@
 
 ## Target Audience
 
-## Identifying Individual
+The target audience for this project is TikTok users. The younger generations of the general public (they don't have to use TikTok, their friends will talk about TikTok trends in daily conversations) as their age groups use TikTok more frequently. Musicians and music labels are also part of the target audience. 
+
+## Identifying Representative Individuals to interview
+
+Given my target audience, I will Here are three people that I will be interviewing:
+
+- Student, Female, 22, heavy user of TikTok, no data visualization background, some music background
+- Adult, Female, 47, use TikTok on a daily basis, no data visualization background, no music background
+- Student, Female, 22, don't often use TikTok, data background, some music background
 
 ## Script
-a. the target audience you hope to reach with your story; 
-b. your approach to identifying representative individuals to interview; 
-c. your interview script; 
-d. the findings from your interviews; and 
-e. changes you plan on implementing to your visualizations next week to address the issues identified. 
 
+With each of the three representative individuals, I will show them my storyboard, talk about my data visualizations, and ask them the following questions:
+
+- Did anything stood out to you?
+- Looking at the overall storyboard, what works for you?
+- Do you feel anything is unclear? Is there any gaps of information?
+- Is there anything you would change?
+- What do you feel looking at the storyboard at different stages? 
+
+From these questions, I hope to get feedback from my target audiences to better understand the strengths and weaknesses of my data visualizations, the emotional impacts, and if my story is comprehensible. 
 
 ## User Research Findings
 
+| Questions  | First Person | Second Person | Third Person |
+| ------------- | ------------- | ------------- | ------------- |
+| Did anything stood out to you?  | Content Cell  | Content Cell  | Content Cell  |
+| Looking at the overall storyboard, what works for you?  | Content Cell  | Content Cell  | Content Cell  |
+| Do you feel anything is unclear? Is there any gaps of information?  | Content Cell  | Content Cell  | Content Cell  |
+| Is there anything you would change? | Content Cell  | Content Cell  | Content Cell  |
+| What do you feel looking at the storyboard at different stages?   | Content Cell  | Content Cell  | Content Cell  |
 
-## Changes for Visualizations
+
+
+## Changes to Implement Next Week
 
 
 
