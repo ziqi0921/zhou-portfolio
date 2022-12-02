@@ -14,7 +14,7 @@ The target audience for this project is TikTok users. The younger generations of
 
 ### Identifying Representative Individuals
 
-Given my target audience, I found three people among my friends and family members that have these characteristics and is willing to participate in my study. Here are the demographics of the three people that I will be interviewing:
+Given my target audience, I found three people among my friends and family members that have these characteristics and is willing to participate in my study. I intentionally chose two TikTok users and one younger generation that does not use TikTok regularly and see what their response might be diffferent. For the two people that uses TikTok, one of them is a student and another person is in middle age. Here are the demographics of the three people that I will be interviewing:
 
 - Student, Female, 22, heavy user of TikTok, no data visualization background, some music background
 - Adult, Female, 47, use TikTok on a daily basis, no data visualization background, no music background
@@ -33,6 +33,8 @@ With each of the three representative individuals, I will show them my storyboar
 From these questions, I hope to get feedback from my target audiences to better understand the strengths and weaknesses of my data visualizations, the emotional impacts, and if my story is comprehensible. 
 
 ### User Research Findings
+
+This table records the feedback I got from each of my representative individual:
 
 | Questions  | First Person | Second Person | Third Person |
 | ------------- | ------------- | ------------- | ------------- |
@@ -59,7 +61,11 @@ During the in-class critique, I asked the classmates if they think my call to ac
 
 Based on the feedbacks I got both from interviewing and the in-class, I will consider these changes in Part 3:
 
-- 
+- Give two call-to-actions: companies and individual artists can analyze trends to make their songs more feasible on TikTok, but make sure also consider diversity because if everyone is doing what data tells them to do, the diversity of music industry will decrease. For TikTok users make sure to acknowledge copyright infrigements and protect the creative environment of TikTok!
+- Add data viz if possible on the effect of call to action.
+- Adjust the label size on the graphs. 
+- The timeframe of 1958 to 2021 might be too much, probably focus only on the recent two decades, and create a mark when TikTok launches. 
+- Adjust the format of line graphs to more of a portrait view
 
 
 [Go to Part 1](https://ziqi0921.github.io/zhou-portfolio/part1)
