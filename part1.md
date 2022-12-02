@@ -47,3 +47,6 @@ This project will be completed using Shorthand to make the web more engaging and
 
 
 [Back to Portfolio](https://ziqi0921.github.io/zhou-portfolio/)
+
+[To Part II](https://ziqi0921.github.io/zhou-portfolio/part2)
+
