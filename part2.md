@@ -1,16 +1,18 @@
 
-# Wireframe and Storyboards
+# Part II, Final project wireframes / storyboards and user research
+
+## Wireframe and Storyboards
 
 For the Wireframe, please click on this [Shorthand Preview Link](https://preview.shorthand.com/jjj66IRQTJHcDhYw)
 
 
-# User Research Protocol
+## User Research Protocol
 
-## Target Audience
+### Target Audience
 
 The target audience for this project is TikTok users. The younger generations of the general public (they don't have to use TikTok, their friends will talk about TikTok trends in daily conversations) as their age groups use TikTok more frequently. Musicians and music labels are also part of the target audience. 
 
-## Identifying Representative Individuals
+### Identifying Representative Individuals
 
 Given my target audience, I found three people among my friends and family members that have these characteristics and is willing to participate in my study. Here are the demographics of the three people that I will be interviewing:
 
@@ -18,7 +20,7 @@ Given my target audience, I found three people among my friends and family membe
 - Adult, Female, 47, use TikTok on a daily basis, no data visualization background, no music background
 - Student, Female, 23, don't often use TikTok, data background, some music background
 
-## Interview Script
+### Interview Script
 
 With each of the three representative individuals, I will show them my storyboard, talk about my data visualizations, and ask them the following questions:
 
@@ -30,7 +32,7 @@ With each of the three representative individuals, I will show them my storyboar
 
 From these questions, I hope to get feedback from my target audiences to better understand the strengths and weaknesses of my data visualizations, the emotional impacts, and if my story is comprehensible. 
 
-## User Research Findings
+### User Research Findings
 
 | Questions  | First Person | Second Person | Third Person |
 | ------------- | ------------- | ------------- | ------------- |
@@ -46,11 +48,11 @@ Some feedbacks I think are valueable:
 - 
 - The pie chart is more simple and concise, and it will be more effective if I include that in my final presentation. 
 
-## In-Class Critique
+### In-Class Critique
 
 During the in-class critique, I asked the classmates if they think my call to action is valid. One of them said that my call to action based only on my data stories would be more towards the label companies and how they can use the trends that I provided for their future song releases. Their idea is that I can include both my original call to action and this new one in my more detailed webpage, and only present one of them in the presentation. 
 
-## Changes to Implement Next Week
+### Changes to Implement Next Week
 
 Based on the feedbacks I got both from interviewing and the in-class, I will consider these changes in Part 3:
 
