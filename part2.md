@@ -12,7 +12,7 @@ The target audience for this project is TikTok users. The younger generations of
 
 ## Identifying Representative Individuals to interview
 
-Given my target audience, I will Here are three people that I will be interviewing:
+Given my target audience, I found three people among my friends and family members who is willing to participate in my study. Here are the demographics of the three people that I will be interviewing:
 
 - Student, Female, 22, heavy user of TikTok, no data visualization background, some music background
 - Adult, Female, 47, use TikTok on a daily basis, no data visualization background, no music background
@@ -34,13 +34,15 @@ From these questions, I hope to get feedback from my target audiences to better 
 
 | Questions  | First Person | Second Person | Third Person |
 | ------------- | ------------- | ------------- | ------------- |
-| Did anything stood out to you?  | Content Cell  | Content Cell  | Content Cell  |
-| Looking at the overall storyboard, what works for you?  | Content Cell  | Content Cell  | Content Cell  |
+| Did anything stood out to you?  | I do realize that TikTok was getting more popular, but I have no idea that it is beginning to change the music industry. That was a nice presentation.  | I think it is true that TikTok is changing the music industry because a lot more people now is talking about it.  | Content Cell  |
+| Looking at the overall storyboard, what works for you?  | Content Cell  | I like the pie chart  | Content Cell  |
 | Do you feel anything is unclear? Is there any gaps of information?  | Content Cell  | Content Cell  | Content Cell  |
 | Is there anything you would change? | Content Cell  | Content Cell  | Content Cell  |
-| What do you feel looking at the storyboard at different stages?   | Content Cell  | Content Cell  | Content Cell  |
+| What do you feel looking at the storyboard at different stages?  | Content Cell  | Content Cell  | Content Cell  |
 
+Some feedbacks I got in common are:
 
+- 
 
 ## Changes to Implement Next Week
 
