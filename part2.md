@@ -61,11 +61,11 @@ During the in-class critique, I asked the classmates if they think my call to ac
 
 Based on the feedbacks I got both from interviewing and the in-class, I will consider these changes in Part 3:
 
-- Give two call-to-actions: companies and individual artists can analyze trends to make their songs more feasible on TikTok, but make sure also consider diversity because if everyone is doing what data tells them to do, the diversity of music industry will decrease. For TikTok users make sure to acknowledge copyright infrigements and protect the creative environment of TikTok!
+- Give two call-to-actions: companies and individual artists can analyze trends to make their songs more feasible on TikTok, but make sure also consider diversity because if everyone is doing what data tells them to do, the diversity of music industry will decrease. For TikTok users make sure to acknowledge copyright infrigements and protect the creative environment of TikTok.
 - Add data viz if possible on the effect of call to action.
-- Adjust the label size on the graphs. 
+- Adjust the label size on the graphs and make sure everything else is easy to read. 
+- Adjust the format of line graphs to more of a portrait view. 
 - The timeframe of 1958 to 2021 might be too much, probably focus only on the recent two decades, and create a mark when TikTok launches. 
-- Adjust the format of line graphs to more of a portrait view
 
 
 [Go to Part 1](https://ziqi0921.github.io/zhou-portfolio/part1)
