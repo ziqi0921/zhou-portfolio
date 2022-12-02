@@ -10,7 +10,7 @@ For the Wireframe, please click on this [Shorthand Preview Link](https://preview
 
 The target audience for this project is TikTok users. The younger generations of the general public (they don't have to use TikTok, their friends will talk about TikTok trends in daily conversations) as their age groups use TikTok more frequently. Musicians and music labels are also part of the target audience. 
 
-## Identifying Representative Individuals to interview
+## Identifying Representative Individuals
 
 Given my target audience, I found three people among my friends and family members that have these characteristics and is willing to participate in my study. Here are the demographics of the three people that I will be interviewing:
 
@@ -18,7 +18,7 @@ Given my target audience, I found three people among my friends and family membe
 - Adult, Female, 47, use TikTok on a daily basis, no data visualization background, no music background
 - Student, Female, 23, don't often use TikTok, data background, some music background
 
-## Script
+## Interview Script
 
 With each of the three representative individuals, I will show them my storyboard, talk about my data visualizations, and ask them the following questions:
 
