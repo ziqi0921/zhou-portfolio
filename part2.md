@@ -3,7 +3,7 @@
 
 ## Wireframe and Storyboards
 
-For the Wireframe, please click on this [Shorthand Preview Link](https://preview.shorthand.com/jjj66IRQTJHcDhYw)
+For the Wireframe, please click on [Shorthand Preview Link](https://preview.shorthand.com/jjj66IRQTJHcDhYw)
 
 
 ## User Research Protocol
@@ -39,7 +39,7 @@ From these questions, I hope to get feedback from my target audiences to better 
 | Did anything stood out to you?  | I do realize that TikTok was getting more popular, but I have no idea that it is beginning to change the music industry. That was a nice presentation.  | I think it is true that TikTok is changing the music industry because a lot more people now is talking about it.  | I like your idea about TikTok and the data you gathered. I think your website is fancy.  |
 | Looking at the overall storyboard, what works for you?  | I think the part where you scroll and the graph changes is very engaging (the scrollmation). The pie chart is very effective.  | I like the pie chart, I think it tells the audience that there is a change brought by TikTok within the three years on the music industry.  | I think the flow of your story is engaging, and you are usin data visualizations to speak about your points. |
 | Do you feel anything is unclear? Is there any gaps of information?  | I think your story is pretty clear.  | I think it feels a little weird jumping from the trends to the copyright issues, you can modify that a little. | I don't know if the different graphs of the features (the scrollmation) is that important because there is not a clear trend. |
-| Is there anything you would change? | I would   | Content Cell  | I would love if you could include a data visualization of why is it important to respond to your call to action as well.  |
+| Is there anything you would change? | I would make the numbers and some of the labels on the your data visualizations bigger, it is a little hard to see right now.  | For the trending data for each feature on the three platforms, I think you could change the y-axis more close-up so that the trends will be easier to identify. | I would love if you could include a data visualization of why is it important to respond to your call to action as well.  |
 | What do you feel looking at the storyboard at different stages?  | At first, I am excited that you are doing a project based on TikTok trends. Then as I look at your data visualizations I realized that TikTok is becoming a big thing in the music industry especially when all the record labels are creating music based on the trend data.  | I think you are doing a good job and I understand all the data you showed me. | I feel engaging throughout and it made me reflect on my experiences with TikTok and if I have noticed these changes. |
 
 Some feedbacks I think are valueable:
