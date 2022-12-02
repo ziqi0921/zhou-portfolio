@@ -38,19 +38,22 @@ From these questions, I hope to get feedback from my target audiences to better 
 | ------------- | ------------- | ------------- | ------------- |
 | Did anything stood out to you?  | I do realize that TikTok was getting more popular, but I have no idea that it is beginning to change the music industry. That was a nice presentation.  | I think it is true that TikTok is changing the music industry because a lot more people now is talking about it.  | I like your idea about TikTok and the data you gathered. I think your website is fancy.  |
 | Looking at the overall storyboard, what works for you?  | I think the part where you scroll and the graph changes is very engaging (the scrollmation). The pie chart is very effective.  | I like the pie chart, I think it tells the audience that there is a change brought by TikTok within the three years on the music industry.  | I think the flow of your story is engaging, and you are usin data visualizations to speak about your points. |
-| Do you feel anything is unclear? Is there any gaps of information?  | I think your story is pretty clear.  | I think it feels a little weird jumping from the trends to the copyright issues, you can modify that a little. | I don't know if the different graphs of the features (the scrollmation) is that important because there is not a clear trend. |
+| Do you feel anything is unclear? Is there any gaps of information?  | I think your story is pretty clear. Just I am not sure the use of the billboard line graph because it does not seem to be relevant to TikTok. | I think it feels a little weird jumping from the trends to the copyright issues, you can modify that a little. | I don't know if the different graphs of the features (the scrollmation) is that important because there is not a clear trend. |
 | Is there anything you would change? | I would make the numbers and some of the labels on the your data visualizations bigger, it is a little hard to see right now.  | For the trending data for each feature on the three platforms, I think you could change the y-axis more close-up so that the trends will be easier to identify. | I would love if you could include a data visualization of why is it important to respond to your call to action as well.  |
 | What do you feel looking at the storyboard at different stages?  | At first, I am excited that you are doing a project based on TikTok trends. Then as I look at your data visualizations I realized that TikTok is becoming a big thing in the music industry especially when all the record labels are creating music based on the trend data.  | I think you are doing a good job and I understand all the data you showed me. | I feel engaging throughout and it made me reflect on my experiences with TikTok and if I have noticed these changes. |
 
 Some feedbacks I think are valueable:
 
 - I need to think more about the call to action and how to connect it with my story tighter. 
-- 
+- For the pie charts, make the labels bigger for the audience to see better. 
+- For the grid line graph, I need to think about how it can tie in with the emergence of TikTok.
+- For the different line graphs, I probably need to adjust the value a little so that there would be a trend shown if possible. 
+- Also for the line graphs, I can make the labels bigger for the audience (since the scrollmation section is too narrow for a landscape graph, I can adjust the height of the graph)
 - The pie chart is more simple and concise, and it will be more effective if I include that in my final presentation. 
 
 ### In-Class Critique
 
-During the in-class critique, I asked the classmates if they think my call to action is valid. One of them said that my call to action based only on my data stories would be more towards the label companies and how they can use the trends that I provided for their future song releases. Their idea is that I can include both my original call to action and this new one in my more detailed webpage, and only present one of them in the presentation. 
+During the in-class critique, I asked the classmates if they think my call to action is valid. One of them said that my call to action based only on my data stories would be more towards the label companies and how they can use the trends that I provided for their future song releases. Their idea is that I can include both my original call to action and this new one in my more detailed webpage, and only present one of them in the presentation. Another idea for me is for the grid line graph, I can add a vertical line on the year that TikTok released and see how that is changing the trend. 
 
 ### Changes to Implement Next Week
 
