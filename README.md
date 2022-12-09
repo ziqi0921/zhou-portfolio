@@ -18,6 +18,8 @@ I am super excited for this class because I had a chance to explore Tableau in u
 
 [Final Project Part II](https://ziqi0921.github.io/zhou-portfolio/part2)
 
+[Final Project Part III](https://ziqi0921.github.io/zhou-portfolio/part3)
+
 ## In Class Tableau Exercise
 
 <div class='tableauPlaceholder' id='viz1668105155128' style='position: relative'><noscript><a href='#'><img alt='Trust in News Organizations (Source: Simmons Research) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tu&#47;Tutorial_16681051327620&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Tutorial_16681051327620&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tu&#47;Tutorial_16681051327620&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>               <script type='text/javascript'>
