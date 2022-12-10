@@ -23,6 +23,7 @@ In part II, I created my story wireframe and asked three intended audience for a
 Over the developing process, the scope of my project has changed from increasing diversity of the music on TikTok (the original idea in Part I, but realized that I couldn't find datasets to show the diversity changes that TikTok brought to the industry) to analyzing the trends of song features and adding a copyright part to my project. In this project, I learned to develop my stories by digging in on datasets and think about different data visualizations that can support my storylines. 
 
 
+
 ### Design Decisions and Observations
 
 In the process of creating my data visualizations, I spend a lot of time cleaning up te datasets and matching them because many of them are only the data from one year and I wanted to look at the trends over several years. 
@@ -30,6 +31,7 @@ In the process of creating my data visualizations, I spend a lot of time cleanin
 I think the most successful data visualization is the pie chart about TikTok's increase in representation on Billboard Chart. I think the contrast between the two years is shown intuitively through the graph. In part II, some labels on the chart is a little small, making it harder to read, therefore I adjusted the label size on the graphs and made sure the audience from the classroom can see everything. I also changed the title of my graph so it tells about more information than just "TikTok Songs on Billboard Hot 100" from the feedback I got from the grader. 
 
 Other changes on my visualization designs from part II include the feedback I got from the interviews of adjusting the y-axis of the line graphs so that the trends and be more clear to the audiences. However, I still want my y-axis to start from 0 because I am afraid that changing the range of y-axis might mislead the audiences. Therefore, to make the trends more clear to the audience I decided to increase the length of the y-axis to make the graphs more into a portrait view. I also got the feedback that the timeframe of 1958 to 2021 and the changes on Billboard does not really have anything to do with TikTok, therefore, I created a mark of when TikTok launches at 2017 to connect the trends more. 
+
 
 
 [Part I](https://ziqi0921.github.io/zhou-portfolio/part1)
