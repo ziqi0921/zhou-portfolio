@@ -5,7 +5,7 @@ Ziqi's Portfolio for Telling Stories with Data!
 
 Hi everyone! My name is Ziqi Zhou, and I am a Master of Entertainment Industry Management (MEIM) student at CMU. My pronouns are she/her/hers. I got my Bachelor of Science in Statistcs and Bachelor of Arts in Music History and Industry at UCLA. Because of my two distinct majors, I decided to find a place where I can search for the intersection between entertainment and technology. Therefore, I am interested in doing research/data oriented jobs such as data analyst for entertainment companies in the future. 
 
-!(IMG_3443.JPG)
+![my picture](IMG_3443.JPG)
 
 ## What I hope to Learn
 
