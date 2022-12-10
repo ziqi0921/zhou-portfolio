@@ -5,6 +5,14 @@
 
 [click here](https://carnegiemellon.shorthandstories.com/final-project-ziqi/index.html)
 
+## Audience
+
+In part I, I said my intended audience is the general public, music labels, and TikTo users. However, I realized later that this is too broad for the intended audience. In part II, I think my intended audience are TikTok users are younger generations because they are the people that cares about TikTok. However, the in-class discussion between several peers changed my mind when they said that the focus of my project is mainly geared towards the music labels because it is more about analyzing trends. 
+
+As I continue to refine my project, I am determined that the intended audience for this project contains music creaters and distributors (music companies, record labels, musicians, individual artists) because the first part of my project is analyzing trends for music features that are popular on the music platforms and how TikTok is a game-changer for the music industry. Another part of my intended audience is all TikTok users because the second part of my project is now talking about the platform's copyright policy and it is important that everyone using TikTok can be aware of this. 
+
+During my presentation, I expect my audiences to first realize (probably astonishing) that TikTok is becoming more and more popular and is changing the music industry when they see the data visualizations of monthly active users and the increase of representation of TikTok songs on Billboard chart. Next, when the topic shifts to copyright infringements, I expect everyone to be more serious and start to think if they have seen any videos that contains a song that has been changed and remixed that could perhaps become an infringement. Therefore, they will connect better with the call-to-action in the end. 
+
 
 ## Project Summary
 
@@ -14,23 +22,15 @@ In part II, I created my story wireframe and asked three intended audience for a
 
 Over the developing process, the scope of my project has changed
 
+In this project, I learned 
+
 ### Design Decisions and Observations
 
 I spend a lot of time cleaning up te datasets and matching them because many of them are only the data from one year and I wanted to look at the trends over several years. 
 
 
-## Audience
 
-In part I, I said my intended audience is the general public, music labels, and TikTo users. However, I realized later that this is too broad for the intended audience. In part II, I think my intended audience are TikTok users are younger generations because they are the people that cares about TikTok. However, the in-class discussion between several peers changed my mind when they said that the focus of my project is mainly geared towards the music labels because it is more about analyzing trends. 
-
-As I continue to refine my project, I am determined that the intended audience for this project contains music creaters and distributors (music companies, record labels, musicians, individual artists) because the first part of my project is analyzing trends for music features that are popular on the music platforms and how TikTok is a game-changer for the music industry. Another part of my intended audience is all TikTok users because in the second part of my
-
-During my presentation, I expect my audiences to first be 
-
-
-## Conclusion
-
-In this project, I learned After the presentation, I reflected on my project and things that I can dig deeper. I 
+After the presentation, I reflected on my project and things that I can dig deeper. I 
 
 
 [Part I](https://ziqi0921.github.io/zhou-portfolio/part1)
