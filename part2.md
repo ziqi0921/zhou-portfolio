@@ -68,6 +68,8 @@ Based on the feedbacks I got both from interviewing and the in-class, I will con
 - The timeframe of 1958 to 2021 might be too much, probably focus only on the recent two decades, and create a mark when TikTok launches. 
 
 
-[Go to Part 1](https://ziqi0921.github.io/zhou-portfolio/part1)
+[Go to Part I](https://ziqi0921.github.io/zhou-portfolio/part1)
+
+[Go to Part III](https://ziqi0921.github.io/zhou-portfolio/part3)
 
 [Back to Portfolio Page](https://ziqi0921.github.io/zhou-portfolio)
