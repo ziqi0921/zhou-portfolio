@@ -3,7 +3,7 @@
 
 ## Final Project
 
-[click here](https://carnegiemellon.shorthandstories.com/final-project-ziqi/index.html)
+[How TikTok Changes Music Industry: Analyzing Music Trends and Copyright Infringements](https://carnegiemellon.shorthandstories.com/final-project-ziqi/index.html)
 
 ## Audience
 
@@ -20,17 +20,16 @@ In part I, when I was asked to find a topic for final project, I wanted to find 
 
 In part II, I created my story wireframe and asked three intended audience for a short interview on my project. The feedbacks I got from them allows me to further develop my project. They told me to think more about my call to action and how to connect with my story better as my last version jumped from analyzing the trends to a copyright call-to-action. I created it that way because I wanted to give a more specific call-to-action instead of raising awareness to protect the creative space. Therefore, I decided to dig more into copyright issues by finding more statistics about how many videos have violated the copyright rules. It turns out that I am able to find data on the number of videos removed by the platform, and a portion of the videos goes to integrity and authenticity, which is linked to copyright infringement. From there, I decided to give two call-to-actions: one for music labels and one for TikTok users. Companies and individual artists can analyze trends to make their songs more feasible on TikTok but keep in mind of diversity, and TikTok users can protect the creative environment by following the rules of the platform on copyright and report copyright infrigements. 
 
-Over the developing process, the scope of my project has changed
+Over the developing process, the scope of my project has changed from increasing diversity 
 
-In this project, I learned 
 
 ### Design Decisions and Observations
 
-I spend a lot of time cleaning up te datasets and matching them because many of them are only the data from one year and I wanted to look at the trends over several years. 
+In the process of creating my data visualizations, I spend a lot of time cleaning up te datasets and matching them because many of them are only the data from one year and I wanted to look at the trends over several years. 
 
+I think the most successful data visualization is the pie chart about TikTok's increase in representation on Billboard Chart. I think the contrast between the two years is shown intuitively through the graph. In part II, some labels on the chart is a little small, making it harder to read, therefore I adjusted the label size on the graphs and made sure the audience from the classroom can see everything. I also changed the title of my graph so it tells about more information than just "TikTok Songs on Billboard Hot 100" from the feedback I got from the grader. 
 
-
-After the presentation, I reflected on my project and things that I can dig deeper. I 
+Other 
 
 
 [Part I](https://ziqi0921.github.io/zhou-portfolio/part1)
