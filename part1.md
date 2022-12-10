@@ -46,7 +46,9 @@ I choose these datasets because all of them share common characteristic factors:
 This project will be completed using Shorthand to make the web more engaging and interactive to the audience. All the data visualizations will be done using Tableau and Florish and link to Shorthand to back up the story. There will be two versions of Shorthand created: one with detail on all the stories, data visualizations, and examples and another condensed version for in-class presentation. 
 
 
-[Back to Portfolio](https://ziqi0921.github.io/zhou-portfolio/)
 
 [To Part II](https://ziqi0921.github.io/zhou-portfolio/part2)
 
+[To Part III](https://ziqi0921.github.io/zhou-portfolio/part3)
+
+[Back to Portfolio](https://ziqi0921.github.io/zhou-portfolio/)
