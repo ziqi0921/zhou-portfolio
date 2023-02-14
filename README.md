@@ -10,7 +10,6 @@ My name is Ziqi Zhou, and I am a Master of Entertainment Industry Management (ME
 
 [Ziqi's Personal Website](https://www.ziqizhousportfolio.com/)
 
-![](IMG_6893.JPG)
 
 ## Portfolio
 [Visualizing Government Debt](https://ziqi0921.github.io/zhou-portfolio/VisualizingGovDebt)
