@@ -1,7 +1,8 @@
-# zhou-portfolio
+# Data Visualization
+
 Ziqi's Portfolio for Telling Stories with Data!
 
-# About Me
+## About Me
 
 Hi everyone! 
 
@@ -9,7 +10,7 @@ My name is Ziqi Zhou, and I am a Master of Entertainment Industry Management (ME
 
 ![](IMG_6893.JPG)
 
-# Portfolio
+## Portfolio
 [Visualizing Government Debt](https://ziqi0921.github.io/zhou-portfolio/VisualizingGovDebt)
 
 [Broadway Musical Ratings by Month](https://ziqi0921.github.io/zhou-portfolio/broadway-ratings)
@@ -20,17 +21,17 @@ My name is Ziqi Zhou, and I am a Master of Entertainment Industry Management (ME
 
 [Final Project Part III](https://ziqi0921.github.io/zhou-portfolio/part3)
 
-## In Class Tableau Exercise
+### In Class Tableau Exercise
 
-### Trust in New Organizations
+#### Trust in New Organizations
 
 [click here](https://ziqi0921.github.io/zhou-portfolio/inclass1)
 
-### Incorrectly Dated
+#### Incorrectly Dated
 
 [click here](https://ziqi0921.github.io/zhou-portfolio/inclass2)
 
-### Covid Activity
+#### Covid Activity
 
 [click here](https://ziqi0921.github.io/zhou-portfolio/inclass3)
 
