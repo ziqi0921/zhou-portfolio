@@ -25,16 +25,11 @@ My name is Ziqi Zhou, and I am a Master of Entertainment Industry Management (ME
 
 ### In Class Tableau Exercise
 
-#### Trust in New Organizations
 
-[click here](https://ziqi0921.github.io/zhou-portfolio/inclass1)
+[Trust in New Organizations](https://ziqi0921.github.io/zhou-portfolio/inclass1)
 
-#### Incorrectly Dated
+[Incorrectly Dated](https://ziqi0921.github.io/zhou-portfolio/inclass2)
 
-[click here](https://ziqi0921.github.io/zhou-portfolio/inclass2)
-
-#### Covid Activity
-
-[click here](https://ziqi0921.github.io/zhou-portfolio/inclass3)
+[Covid Activity](https://ziqi0921.github.io/zhou-portfolio/inclass3)
 
  
